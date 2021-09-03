@@ -1,8 +1,8 @@
 # This function divides 2 numbers and return the value to the console
 # This program requests user to input their numbers from the keyboard
 
-num1 = float(input("Enter the 1st number you want to multiply: "))
-num2 = float(input("Enter the 2nd number you want to multiply: "))
+num1 = float(input("Enter the 1st number you want to divide: "))
+num2 = float(input("Enter the 2nd number: "))
 
 def div(num1, num2) :
     answer = (num1 / num2)
